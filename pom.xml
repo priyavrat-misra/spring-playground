@@ -16,5 +16,6 @@
   </dependencies>
   <modules>
     <module>basics</module>
+    <module>scope</module>
   </modules>
 </project>
