@@ -8,7 +8,7 @@
     <artifactId>spring-playground</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>scope</artifactId>
+  <artifactId>scopes-and-instantiation</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>scope</name>
 </project>
